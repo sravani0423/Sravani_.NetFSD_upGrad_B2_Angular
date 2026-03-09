@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mini Product Search</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            padding-top: 60px;
+        }
+
+        .app {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            width: 380px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+            cursor: pointer;
+        }
+
+        li:hover {
+            background: #f0f0f0;
+        }
+
+        .no-results {
+            text-align: center;
+            color: #888;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="app">
+    <h2>Product Search</h2>
+    <input type="text" id="searchInput" placeholder="Search products...">
+    <ul id="productList"></ul>
+</div>
+
+<script>
+    
+
+    const products = [
+        "Laptop",
+        "Smartphone",
+        "Headphones",
+        "Keyboard",
+        "Mouse",
+        "Monitor",
+        "Tablet",
+        "Smartwatch"
+    ];
+
+    let filteredProducts = [...products];
+
+    const searchInput = document.getElementById("searchInput");
+    const productList = document.getElementById("productList");
+
+    // Modular Functions 
+
+    function renderProducts(productArray) {
+        productList.innerHTML = "";
+
+        if (productArray.length === 0) {
+            productList.innerHTML = `<div class="no-results">No Results Found</div>`;
+            return;
+        }
+
+        productArray.forEach(product => {
+            const li = document.createElement("li");
+            li.textContent = product;
+            productList.appendChild(li);
+        });
+    }
+
+    function filterProducts(searchTerm) {
+        filteredProducts = products.filter(product =>
+            product.toLowerCase().includes(searchTerm.toLowerCase())
+        );
+
+        renderProducts(filteredProducts);
+    }
+
+    function handleSearchInput(event) {
+        const searchTerm = event.target.value.trim();
+        filterProducts(searchTerm);
+    }
+
+    function handleProductClick(event) {
+        const clickedItem = event.target;
+
+        if (clickedItem.tagName === "LI") {
+            alert(`You selected: ${clickedItem.textContent}`);
+        }
+    }
+
+    // Event Listeners
+
+    // Real-time filtering
+    searchInput.addEventListener("input", handleSearchInput);
+
+    // Event Delegation
+    productList.addEventListener("click", handleProductClick);
+
+    //Initialize 
+
+    renderProducts(products);
+
+</script>
+
+</body>
+</html>

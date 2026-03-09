@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mini Expense Tracker</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    input, button { margin: 5px 0; padding: 6px; }
+    table { border-collapse: collapse; margin-top: 10px; width: 100%; }
+    th, td { border: 1px solid #ccc; padding: 6px; text-align: left; }
+    .error { color: red; }
+  </style>
+</head>
+<body>
+
+  <h2>Mini Expense Tracker</h2>
+
+  <label>Expense Title:</label>
+  <input type="text" id="title">
+
+  <label>Amount:</label>
+  <input type="number" id="amount">
+
+  <label>Date:</label>
+  <input type="date" id="date">
+
+  <br>
+  <button onclick="addExpense()">Add Expense</button>
+  <button onclick="viewExpenses()">View Expenses</button>
+
+  <p id="msg" class="error"></p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Amount</th>
+        <th>Date</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody id="expenseList"></tbody>
+  </table>
+
+  <script src="script.js"></script>
+</body>
+</html>
