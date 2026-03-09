@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Shopzilla Modern E-Commerce</title>
+
+<!-- Bootstrap 5 CDN -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Theme customization using Bootstrap variables -->
+<style>
+:root {
+  --bs-primary: #033a8b;
+  --bs-secondary: #6c757d;
+  --bs-dark: #111827;
+  --bs-light: #f8f9fa;
+}
+
+.hero {
+  background: linear-gradient(to right, #0d6efd, #6610f2);
+  color: white;
+}
+
+.product-img {
+  height: 200px;
+  object-fit: contain;
+}
+</style>
+
+</head>
+<body>
+
+<!-- NAVBAR WITH OFFCANVAS -->
+<nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+<div class="container">
+
+<a class="navbar-brand fw-bold">Shopzilla</a>
+
+<button class="navbar-toggler" data-bs-toggle="offcanvas" data-bs-target="#menu">
+<span class="navbar-toggler-icon"></span>
+</button>
+
+<div class="collapse navbar-collapse">
+<ul class="navbar-nav ms-auto">
+
+<li class="nav-item">
+<a class="nav-link">Home</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link">Products</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link">Contact</a>
+</li>
+
+</ul>
+</div>
+
+</div>
+</nav>
+
+
+<!-- OFFCANVAS MENU -->
+<div class="offcanvas offcanvas-start bg-dark text-white" id="menu">
+
+<div class="offcanvas-header">
+<h5>Menu</h5>
+<button class="btn-close btn-close-white" data-bs-dismiss="offcanvas"></button>
+</div>
+
+<div class="offcanvas-body">
+
+<ul class="navbar-nav">
+
+<li class="nav-item mb-2">
+<a class="nav-link text-white">Home</a>
+</li>
+
+<li class="nav-item mb-2">
+<a class="nav-link text-white">Products</a>
+</li>
+
+<li class="nav-item mb-2">
+<a class="nav-link text-white">Categories</a>
+</li>
+
+<li class="nav-item mb-2">
+<a class="nav-link text-white">Cart</a>
+</li>
+
+</ul>
+
+</div>
+</div>
+
+
+<!-- HERO SECTION -->
+<section class="hero py-5 text-center">
+
+<div class="container">
+
+<h1 class="display-4 fw-bold">Welcome to Shopzilla</h1>
+
+<p class="lead">Discover the best electronics at unbeatable prices</p>
+
+<button class="btn btn-light btn-lg">
+Shop Now
+</button>
+
+</div>
+
+</section>
+
+
+<!-- CAROUSEL -->
+<div class="container py-5">
+
+<h2 class="text-center mb-4">Featured Products</h2>
+
+<div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+
+<div class="carousel-inner">
+
+<div class="carousel-item active text-center">
+
+<img src="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6572/6572447_sd.jpg"
+class="d-block mx-auto product-img">
+
+<h5 class="mt-3">Premium Headphones</h5>
+
+</div>
+
+<div class="carousel-item text-center">
+
+<img src="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6514/6514038_rd.jpg"
+class="d-block mx-auto product-img">
+
+<h5 class="mt-3">Smart Watch</h5>
+
+</div>
+
+<div class="carousel-item text-center">
+
+<img src="https://img.freepik.com/premium-photo/realistic-white-smartphone-design-with-three-cameras_1144471-2854.jpg?w=2000"
+class="d-block mx-auto product-img">
+
+<h5 class="mt-3">Smartphone</h5>
+
+</div>
+
+</div>
+
+<button class="carousel-control-prev"
+data-bs-target="#carouselExample"
+data-bs-slide="prev">
+
+<span class="carousel-control-prev-icon"></span>
+
+</button>
+
+<button class="carousel-control-next"
+data-bs-target="#carouselExample"
+data-bs-slide="next">
+
+<span class="carousel-control-next-icon"></span>
+
+</button>
+
+</div>
+
+</div>
+
+
+<!-- PRODUCTS GRID -->
+<section class="container py-5">
+
+<h2 class="text-center mb-5">Popular Products</h2>
+
+<div class="row g-4">
+
+<div class="col-sm-12 col-md-6 col-lg-3">
+
+<div class="card h-100 shadow-sm">
+
+<img src="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6572/6572447_sd.jpg"
+class="card-img-top product-img p-3">
+
+<div class="card-body text-center">
+
+<h5>Headphones</h5>
+
+<p class="text-primary">₹5,999</p>
+
+<button class="btn btn-primary w-100">
+Buy Now
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="col-sm-12 col-md-6 col-lg-3">
+
+<div class="card h-100 shadow-sm">
+
+<img src="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6514/6514038_rd.jpg"
+class="card-img-top product-img p-3">
+
+<div class="card-body text-center">
+
+<h5>Smartwatch</h5>
+
+<p class="text-primary">₹6,999</p>
+
+<button class="btn btn-primary w-100">
+Buy Now
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="col-sm-12 col-md-6 col-lg-3">
+
+<div class="card h-100 shadow-sm">
+
+<img src="https://img.freepik.com/premium-photo/realistic-white-smartphone-design-with-three-cameras_1144471-2854.jpg?w=2000"
+class="card-img-top product-img p-3">
+
+<div class="card-body text-center">
+
+<h5>Smartphone</h5>
+
+<p class="text-primary">₹25,999</p>
+
+<button class="btn btn-primary w-100">
+Buy Now
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="col-sm-12 col-md-6 col-lg-3">
+
+<div class="card h-100 shadow-sm">
+
+<img src="https://m.media-amazon.com/images/I/81p9DPknjLL._AC_.jpg"
+class="card-img-top product-img p-3">
+
+<div class="card-body text-center">
+
+<h5>Bluetooth Speaker</h5>
+
+<p class="text-primary">₹2,999</p>
+
+<button class="btn btn-primary w-100">
+Buy Now
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- NEWSLETTER -->
+<section class="bg-dark text-white py-5">
+
+<div class="container text-center">
+
+<h3>Subscribe to Newsletter</h3>
+
+<p>Get latest deals and offers</p>
+
+<form class="row justify-content-center">
+
+<div class="col-sm-12 col-md-6 col-lg-4">
+
+<input type="email"
+class="form-control mb-3"
+placeholder="Enter your email">
+
+</div>
+
+<div class="col-sm-12 col-md-3 col-lg-2">
+
+<button class="btn btn-primary w-100">
+Subscribe
+</button>
+
+</div>
+
+</form>
+
+</div>
+
+</section>
+
+
+<!-- FOOTER -->
+<footer class="bg-black text-white text-center py-3">
+
+© 2026 Shopzilla. All rights reserved.
+
+</footer>
+
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f4f8;
+    margin: 0;
+    padding: 0;
+}
+
+/* Profile Card */
+.profile-card {
+    width: 300px;
+    background-color: #7d0a49;
+    padding: 20px;              /* Box Model: padding */
+    border: 2px solid #141111;    /* Box Model: border */
+    margin: 50px auto;         /* Box Model: margin */
+    border-radius: 10px;       /* Border radius */
+    text-align: center;        /* Text alignment */
+}
+
+/* Name */
+.name {
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 1px;       /* Typography enhancement */
+    margin-bottom: 5px;
+}
+
+/* Role */
+.role {
+    font-size: 16px;
+    font-weight: 600;
+    color: #d8dde4;
+    margin-bottom: 10px;
+}
+
+/* Bio */
+.bio {
+    font-size: 14px;
+    line-height: 1.6;          /* Typography enhancement */
+    color: #2b39cad7;
+    margin-bottom: 20px;
+}
+
+/* Button */
+.contact-btn {
+    background-color: #5ad2ae;
+    color: rgb(28, 148, 216);
+    border: none;
+    padding: 10px 16px;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Hover effect */
+.contact-btn:hover {
+    background-color: #0f1011;
+}
