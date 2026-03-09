@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FAQ Toggle Section</title>
+
+    <!-- jQuery CDN -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+
+        .faq-container {
+            width: 600px;
+        }
+
+        .faq-item {
+            margin-bottom: 10px;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 10px;
+        }
+
+        .faq-question {
+            font-weight: bold;
+            cursor: pointer;
+            padding: 10px;
+            background-color: #f4f4f4;
+        }
+
+        .faq-answer {
+            display: none;
+            padding: 10px;
+            background-color: #fafafa;
+        }
+
+        /* Highlight selected question */
+        .active {
+            background-color: #d9edf7;
+            color: #31708f;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Frequently Asked Questions</h2>
+
+    <div class="faq-container">
+
+        <div class="faq-item">
+            <div class="faq-question">1. What courses do you offer?</div>
+            <div class="faq-answer">We offer Web Development, Data Science, Python, and Java courses.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">2. How can I register?</div>
+            <div class="faq-answer">You can register through our official website by filling out the registration form.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">3. Are certificates provided?</div>
+            <div class="faq-answer">Yes, certificates are provided after successful course completion.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">4. Do you provide online classes?</div>
+            <div class="faq-answer">Yes, both online and offline classes are available.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">5. What is the course duration?</div>
+            <div class="faq-answer">Course duration varies from 4 weeks to 6 months depending on the program.</div>
+        </div>
+
+    </div>
+
+    <script>
+        $(document).ready(function(){
+
+            $(".faq-question").click(function(){
+
+                // Toggle the clicked answer
+                $(this).next(".faq-answer").slideToggle();
+
+                // Toggle highlight class
+                $(this).toggleClass("active");
+
+            });
+
+        });
+    </script>
+
+</body>
+</html>
