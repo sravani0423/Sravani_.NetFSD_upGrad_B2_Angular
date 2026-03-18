@@ -1,4 +1,4 @@
-USE ecommappdb;
+USE EcommAppDb;
 -- order status validation
 GO
 

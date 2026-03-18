@@ -1,0 +1,15 @@
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\bin\Debug\net8.0\DSA.exe
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\bin\Debug\net8.0\DSA.deps.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\bin\Debug\net8.0\DSA.runtimeconfig.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\bin\Debug\net8.0\DSA.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\bin\Debug\net8.0\DSA.pdb
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\obj\Debug\net8.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\obj\Debug\net8.0\DSA.AssemblyInfoInputs.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\obj\Debug\net8.0\DSA.AssemblyInfo.cs
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\obj\Debug\net8.0\DSA.csproj.CoreCompileInputs.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\obj\Debug\net8.0\DSA.sourcelink.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\obj\Debug\net8.0\DSA.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\obj\Debug\net8.0\refint\DSA.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\obj\Debug\net8.0\DSA.pdb
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\obj\Debug\net8.0\DSA.genruntimeconfig.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 1\DSA\DSA\obj\Debug\net8.0\ref\DSA.dll

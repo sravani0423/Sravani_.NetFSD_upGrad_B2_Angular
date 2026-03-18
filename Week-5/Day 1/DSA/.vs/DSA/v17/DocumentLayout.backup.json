@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-5\\day 1\\dsa\\dsa\\vehicle rental system .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|solutionrelative:dsa\\vehicle rental system .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-5\\day 1\\dsa\\dsa\\online shopping cart system .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|solutionrelative:dsa\\online shopping cart system .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-5\\day 1\\dsa\\dsa\\employee salary calculator .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|solutionrelative:dsa\\employee salary calculator .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-5\\day 1\\dsa\\dsa\\bank account management system .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|solutionrelative:dsa\\bank account management system .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-5\\day 1\\dsa\\dsa\\employee management using linked list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|solutionrelative:dsa\\employee management using linked list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-5\\day 1\\dsa\\dsa\\stack based undo system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|solutionrelative:dsa\\stack based undo system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-5\\day 1\\dsa\\dsa\\student score analyzer using arrays and maps .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9091915D-C3B9-4C39-B9D2-755B13773749}|DSA\\DSA.csproj|solutionrelative:dsa\\student score analyzer using arrays and maps .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle Rental System .cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Vehicle Rental System .cs",
+              "RelativeDocumentMoniker": "DSA\\Vehicle Rental System .cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Vehicle Rental System .cs",
+              "RelativeToolTip": "DSA\\Vehicle Rental System .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:24:05.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Online Shopping Cart System .cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Online Shopping Cart System .cs",
+              "RelativeDocumentMoniker": "DSA\\Online Shopping Cart System .cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Online Shopping Cart System .cs",
+              "RelativeToolTip": "DSA\\Online Shopping Cart System .cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAMAnwCwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:20:56.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee Salary Calculator .cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Employee Salary Calculator .cs",
+              "RelativeDocumentMoniker": "DSA\\Employee Salary Calculator .cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Employee Salary Calculator .cs",
+              "RelativeToolTip": "DSA\\Employee Salary Calculator .cs",
+              "ViewState": "AgIAAAcAAACAMzMzMxM6wDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:17:54.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bank Account Management System .cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Bank Account Management System .cs",
+              "RelativeDocumentMoniker": "DSA\\Bank Account Management System .cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Bank Account Management System .cs",
+              "RelativeToolTip": "DSA\\Bank Account Management System .cs",
+              "ViewState": "AgIAACgAAADALDMzM/MpwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:14:35.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee Management Using Linked List.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Employee Management Using Linked List.cs",
+              "RelativeDocumentMoniker": "DSA\\Employee Management Using Linked List.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Employee Management Using Linked List.cs",
+              "RelativeToolTip": "DSA\\Employee Management Using Linked List.cs",
+              "ViewState": "AgIAABAAAACAMzMzM/MswGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:09:19.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stack Based Undo System.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Stack Based Undo System.cs",
+              "RelativeDocumentMoniker": "DSA\\Stack Based Undo System.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Stack Based Undo System.cs",
+              "RelativeToolTip": "DSA\\Stack Based Undo System.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:06:02.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student Score Analyzer Using Arrays and Maps .cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Student Score Analyzer Using Arrays and Maps .cs",
+              "RelativeDocumentMoniker": "DSA\\Student Score Analyzer Using Arrays and Maps .cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-5\\Day 1\\DSA\\DSA\\Student Score Analyzer Using Arrays and Maps .cs",
+              "RelativeToolTip": "DSA\\Student Score Analyzer Using Arrays and Maps .cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvy4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:14:04.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
