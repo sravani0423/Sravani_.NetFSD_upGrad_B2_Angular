@@ -1,0 +1,15 @@
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\bin\Debug\net8.0\ds_day2.exe
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\bin\Debug\net8.0\ds_day2.deps.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\bin\Debug\net8.0\ds_day2.runtimeconfig.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\bin\Debug\net8.0\ds_day2.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\bin\Debug\net8.0\ds_day2.pdb
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\obj\Debug\net8.0\ds_day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\obj\Debug\net8.0\ds_day2.AssemblyInfoInputs.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\obj\Debug\net8.0\ds_day2.AssemblyInfo.cs
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\obj\Debug\net8.0\ds_day2.csproj.CoreCompileInputs.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\obj\Debug\net8.0\ds_day2.sourcelink.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\obj\Debug\net8.0\ds_day2.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\obj\Debug\net8.0\refint\ds_day2.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\obj\Debug\net8.0\ds_day2.pdb
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\obj\Debug\net8.0\ds_day2.genruntimeconfig.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 2\ds_day2\ds_day2\obj\Debug\net8.0\ref\ds_day2.dll

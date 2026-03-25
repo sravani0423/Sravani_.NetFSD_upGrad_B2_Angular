@@ -1,0 +1,15 @@
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\bin\Debug\net8.0\Handling.exe
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\bin\Debug\net8.0\Handling.deps.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\bin\Debug\net8.0\Handling.runtimeconfig.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\bin\Debug\net8.0\Handling.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\bin\Debug\net8.0\Handling.pdb
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\obj\Debug\net8.0\Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\obj\Debug\net8.0\Handling.AssemblyInfoInputs.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\obj\Debug\net8.0\Handling.AssemblyInfo.cs
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\obj\Debug\net8.0\Handling.csproj.CoreCompileInputs.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\obj\Debug\net8.0\Handling.sourcelink.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\obj\Debug\net8.0\Handling.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\obj\Debug\net8.0\refint\Handling.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\obj\Debug\net8.0\Handling.pdb
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\obj\Debug\net8.0\Handling.genruntimeconfig.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 4\Handling\Handling\obj\Debug\net8.0\ref\Handling.dll

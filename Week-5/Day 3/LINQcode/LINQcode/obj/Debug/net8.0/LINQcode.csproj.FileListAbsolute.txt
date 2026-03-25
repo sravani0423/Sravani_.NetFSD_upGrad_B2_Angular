@@ -1,0 +1,15 @@
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\bin\Debug\net8.0\LINQcode.exe
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\bin\Debug\net8.0\LINQcode.deps.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\bin\Debug\net8.0\LINQcode.runtimeconfig.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\bin\Debug\net8.0\LINQcode.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\bin\Debug\net8.0\LINQcode.pdb
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\obj\Debug\net8.0\LINQcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\obj\Debug\net8.0\LINQcode.AssemblyInfoInputs.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\obj\Debug\net8.0\LINQcode.AssemblyInfo.cs
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\obj\Debug\net8.0\LINQcode.csproj.CoreCompileInputs.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\obj\Debug\net8.0\LINQcode.sourcelink.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\obj\Debug\net8.0\LINQcode.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\obj\Debug\net8.0\refint\LINQcode.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\obj\Debug\net8.0\LINQcode.pdb
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\obj\Debug\net8.0\LINQcode.genruntimeconfig.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-5\Day 3\LINQcode\LINQcode\obj\Debug\net8.0\ref\LINQcode.dll
