@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-6\\day 2\\solids\\solids\\factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|solutionrelative:solids\\factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-6\\day 2\\solids\\solids\\singletonpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|solutionrelative:solids\\singletonpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-6\\day 2\\solids\\solids\\solids.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|solutionrelative:solids\\solids.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-6\\day 2\\solids\\solids\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|solutionrelative:solids\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-6\\day 2\\solids\\solids\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|solutionrelative:solids\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-6\\day 2\\solids\\solids\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|solutionrelative:solids\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-6\\day 2\\solids\\solids\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5F558E-6DEF-401F-84A1-3AAAE390B1AA}|Solids\\Solids.csproj|solutionrelative:solids\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactoryPattern.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\FactoryPattern.cs",
+              "RelativeDocumentMoniker": "Solids\\FactoryPattern.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\FactoryPattern.cs",
+              "RelativeToolTip": "Solids\\FactoryPattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:27:14.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingletonPattern.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\SingletonPattern.cs",
+              "RelativeDocumentMoniker": "Solids\\SingletonPattern.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\SingletonPattern.cs",
+              "RelativeToolTip": "Solids\\SingletonPattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:24:46.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISP.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\ISP.cs",
+              "RelativeDocumentMoniker": "Solids\\ISP.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\ISP.cs",
+              "RelativeToolTip": "Solids\\ISP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:18:37.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LSP.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\LSP.cs",
+              "RelativeDocumentMoniker": "Solids\\LSP.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\LSP.cs",
+              "RelativeToolTip": "Solids\\LSP.cs",
+              "ViewState": "AgIAACsAAADA/P////8bwAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:12:36.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solids",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\Solids.csproj",
+              "RelativeDocumentMoniker": "Solids\\Solids.csproj",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\Solids.csproj",
+              "RelativeToolTip": "Solids\\Solids.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T14:04:51.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OCP.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\OCP.cs",
+              "RelativeDocumentMoniker": "Solids\\OCP.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\OCP.cs",
+              "RelativeToolTip": "Solids\\OCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:09:49.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SRP.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\SRP.cs",
+              "RelativeDocumentMoniker": "Solids\\SRP.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 2\\Solids\\Solids\\SRP.cs",
+              "RelativeToolTip": "Solids\\SRP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:05:12.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

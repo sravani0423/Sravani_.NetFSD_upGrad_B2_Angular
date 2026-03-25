@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 1\\Asynchronous\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D57F54B0-C8DF-4C52-964D-40694CF7D465}|Asynchronous\\Asynchronous.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-6\\day 1\\asynchronous\\asynchronous\\ordertracingapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57F54B0-C8DF-4C52-964D-40694CF7D465}|Asynchronous\\Asynchronous.csproj|solutionrelative:asynchronous\\ordertracingapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57F54B0-C8DF-4C52-964D-40694CF7D465}|Asynchronous\\Asynchronous.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-6\\day 1\\asynchronous\\asynchronous\\orderprocessingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57F54B0-C8DF-4C52-964D-40694CF7D465}|Asynchronous\\Asynchronous.csproj|solutionrelative:asynchronous\\orderprocessingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57F54B0-C8DF-4C52-964D-40694CF7D465}|Asynchronous\\Asynchronous.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-6\\day 1\\asynchronous\\asynchronous\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57F54B0-C8DF-4C52-964D-40694CF7D465}|Asynchronous\\Asynchronous.csproj|solutionrelative:asynchronous\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57F54B0-C8DF-4C52-964D-40694CF7D465}|Asynchronous\\Asynchronous.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-6\\day 1\\asynchronous\\asynchronous\\debugging incorrect discount calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57F54B0-C8DF-4C52-964D-40694CF7D465}|Asynchronous\\Asynchronous.csproj|solutionrelative:asynchronous\\debugging incorrect discount calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57F54B0-C8DF-4C52-964D-40694CF7D465}|Asynchronous\\Asynchronous.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-6\\day 1\\asynchronous\\asynchronous\\asynchronous file logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57F54B0-C8DF-4C52-964D-40694CF7D465}|Asynchronous\\Asynchronous.csproj|solutionrelative:asynchronous\\asynchronous file logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderTracingApp.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 1\\Asynchronous\\Asynchronous\\OrderTracingApp.cs",
+              "RelativeDocumentMoniker": "Asynchronous\\OrderTracingApp.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 1\\Asynchronous\\Asynchronous\\OrderTracingApp.cs",
+              "RelativeToolTip": "Asynchronous\\OrderTracingApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:48:48.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderProcessingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 1\\Asynchronous\\Asynchronous\\OrderProcessingSystem.cs",
+              "RelativeDocumentMoniker": "Asynchronous\\OrderProcessingSystem.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 1\\Asynchronous\\Asynchronous\\OrderProcessingSystem.cs",
+              "RelativeToolTip": "Asynchronous\\OrderProcessingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:45:56.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 1\\Asynchronous\\Asynchronous\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "Asynchronous\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 1\\Asynchronous\\Asynchronous\\ReportGenerator.cs",
+              "RelativeToolTip": "Asynchronous\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:43:30.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Debugging Incorrect Discount Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 1\\Asynchronous\\Asynchronous\\Debugging Incorrect Discount Calculation.cs",
+              "RelativeDocumentMoniker": "Asynchronous\\Debugging Incorrect Discount Calculation.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 1\\Asynchronous\\Asynchronous\\Debugging Incorrect Discount Calculation.cs",
+              "RelativeToolTip": "Asynchronous\\Debugging Incorrect Discount Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:39:51.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Asynchronous File Logger.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 1\\Asynchronous\\Asynchronous\\Asynchronous File Logger.cs",
+              "RelativeDocumentMoniker": "Asynchronous\\Asynchronous File Logger.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-6\\Day 1\\Asynchronous\\Asynchronous\\Asynchronous File Logger.cs",
+              "RelativeToolTip": "Asynchronous\\Asynchronous File Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:36:11.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\bin\Debug\net8.0\Solids.exe
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\bin\Debug\net8.0\Solids.deps.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\bin\Debug\net8.0\Solids.runtimeconfig.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\bin\Debug\net8.0\Solids.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\bin\Debug\net8.0\Solids.pdb
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\obj\Debug\net8.0\Solids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\obj\Debug\net8.0\Solids.AssemblyInfoInputs.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\obj\Debug\net8.0\Solids.AssemblyInfo.cs
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\obj\Debug\net8.0\Solids.csproj.CoreCompileInputs.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\obj\Debug\net8.0\Solids.sourcelink.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\obj\Debug\net8.0\Solids.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\obj\Debug\net8.0\refint\Solids.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\obj\Debug\net8.0\Solids.pdb
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\obj\Debug\net8.0\Solids.genruntimeconfig.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-6\Day 2\Solids\Solids\obj\Debug\net8.0\ref\Solids.dll
