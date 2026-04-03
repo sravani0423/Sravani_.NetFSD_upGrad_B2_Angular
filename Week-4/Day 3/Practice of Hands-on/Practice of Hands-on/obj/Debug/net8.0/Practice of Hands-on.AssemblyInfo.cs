@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practice of Hands-on")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78cf03d414550102f2a57161514bc616e158b54b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2569530efc5fee22496b62389f87578ec5567cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practice of Hands-on")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practice of Hands-on")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

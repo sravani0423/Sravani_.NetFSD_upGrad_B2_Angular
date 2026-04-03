@@ -1,0 +1,31 @@
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\Web Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\Web Application.AssemblyInfoInputs.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\Web Application.AssemblyInfo.cs
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\Web Application.csproj.CoreCompileInputs.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\Web Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\Web Application.RazorAssemblyInfo.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\Web Application.RazorAssemblyInfo.cs
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\Web Application.sourcelink.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\bin\Debug\net8.0\appsettings.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\bin\Debug\net8.0\Web Application.staticwebassets.endpoints.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\bin\Debug\net8.0\Web Application.exe
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\bin\Debug\net8.0\Web Application.deps.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\bin\Debug\net8.0\Web Application.runtimeconfig.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\bin\Debug\net8.0\Web Application.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\bin\Debug\net8.0\Web Application.pdb
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\scopedcss\bundle\Web Application.styles.css
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\Web Application.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\refint\Web Application.dll
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\Web Application.pdb
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\Web Application.genruntimeconfig.cache
+C:\Users\hi\OneDrive\Documents\Hands-On\Week-7\Day 3\Web Application\Web Application\obj\Debug\net8.0\ref\Web Application.dll

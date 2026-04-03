@@ -3,34 +3,34 @@ using System.Collections.Generic;
 
 namespace Solids
 {
-   
-    public class Student
+    // Renamed Entity (to avoid conflict)
+    public class StudentSRP
     {
         public int StudentId { get; set; }
-        public string StudentName { get; set; }
+        public string StudentName { get; set; } = string.Empty;
         public double Marks { get; set; }
     }
 
-    
-    public class StudentRepository
+    // Renamed Repository
+    public class StudentRepositorySRP
     {
-        private List<Student> students = new List<Student>();
+        private List<StudentSRP> students = new List<StudentSRP>();
 
-        public void AddStudent(Student student)
+        public void AddStudent(StudentSRP student)
         {
             students.Add(student);
         }
 
-        public List<Student> GetAllStudents()
+        public List<StudentSRP> GetAllStudents()
         {
             return students;
         }
     }
 
-
-    public class ReportGenerator
+    // Report Generator (Single Responsibility)
+    public class ReportGeneratorSRP
     {
-        public void GenerateReport(List<Student> students)
+        public void GenerateReport(List<StudentSRP> students)
         {
             Console.WriteLine("----- Student Report -----");
 
@@ -47,20 +47,19 @@ namespace Solids
         }
     }
 
-    
-    internal class SRP
+    // Main Program
+    internal class SRPProgram
     {
         public static void Main(string[] args)
         {
-           
-            StudentRepository repo = new StudentRepository();
+            StudentRepositorySRP repo = new StudentRepositorySRP();
 
-            repo.AddStudent(new Student { StudentId = 1, StudentName = "Vaani", Marks = 90 });
-            repo.AddStudent(new Student { StudentId = 2, StudentName = "Sonu", Marks = 63 });
-            repo.AddStudent(new Student { StudentId = 3, StudentName = "Seno", Marks = 75 });
-            repo.AddStudent(new Student { StudentId = 3, StudentName = "Mohit", Marks = 32 });
+            repo.AddStudent(new StudentSRP { StudentId = 1, StudentName = "Vaani", Marks = 90 });
+            repo.AddStudent(new StudentSRP { StudentId = 2, StudentName = "Sonu", Marks = 63 });
+            repo.AddStudent(new StudentSRP { StudentId = 3, StudentName = "Seno", Marks = 75 });
+            repo.AddStudent(new StudentSRP { StudentId = 4, StudentName = "Mohit", Marks = 32 });
 
-            ReportGenerator report = new ReportGenerator();
+            ReportGeneratorSRP report = new ReportGeneratorSRP();
             report.GenerateReport(repo.GetAllStudents());
 
             Console.ReadLine();

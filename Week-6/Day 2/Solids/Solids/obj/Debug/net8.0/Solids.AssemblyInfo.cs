@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Solids")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab923e117d2384335241e6c1d40d483d780da9f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2569530efc5fee22496b62389f87578ec5567cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Solids")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Solids")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

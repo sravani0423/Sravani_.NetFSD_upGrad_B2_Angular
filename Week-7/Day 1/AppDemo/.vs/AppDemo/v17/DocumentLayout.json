@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\dataaccess\\contactimplementtation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\dataaccess\\contactimplementtation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\views\\contact\\deletecontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\views\\contact\\deletecontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\appdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\appdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\appdemo.csproj.user||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\appdemo.csproj.user||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\views\\contact\\searchbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\views\\contact\\searchbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\views\\contact\\showallcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\views\\contact\\showallcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\dataaccess\\icontactrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\dataaccess\\icontactrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-7\\day 1\\appdemo\\appdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F86E388-8419-401B-A779-452BBB62563B}|AppDemo\\AppDemo.csproj|solutionrelative:appdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDemo.csproj.user",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\AppDemo.csproj.user",
+              "RelativeDocumentMoniker": "AppDemo\\AppDemo.csproj.user",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\AppDemo.csproj.user",
+              "RelativeToolTip": "AppDemo\\AppDemo.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-04-03T04:17:21.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\AppDemo.csproj",
+              "RelativeDocumentMoniker": "AppDemo\\AppDemo.csproj",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\AppDemo.csproj",
+              "RelativeToolTip": "AppDemo\\AppDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-02T17:55:25.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Views\\Contact\\DeleteContact.cshtml",
+              "RelativeDocumentMoniker": "AppDemo\\Views\\Contact\\DeleteContact.cshtml",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Views\\Contact\\DeleteContact.cshtml",
+              "RelativeToolTip": "AppDemo\\Views\\Contact\\DeleteContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T03:59:05.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchById.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Views\\Contact\\SearchById.cshtml",
+              "RelativeDocumentMoniker": "AppDemo\\Views\\Contact\\SearchById.cshtml",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Views\\Contact\\SearchById.cshtml",
+              "RelativeToolTip": "AppDemo\\Views\\Contact\\SearchById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T03:59:28.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactImplementtation.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\DataAccess\\ContactImplementtation.cs",
+              "RelativeDocumentMoniker": "AppDemo\\DataAccess\\ContactImplementtation.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\DataAccess\\ContactImplementtation.cs",
+              "RelativeToolTip": "AppDemo\\DataAccess\\ContactImplementtation.cs",
+              "ViewState": "AgIAABMAAADAy8zMzMwEwAoAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T03:57:01.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Models\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "AppDemo\\Models\\ContactInfo.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Models\\ContactInfo.cs",
+              "RelativeToolTip": "AppDemo\\Models\\ContactInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T03:57:56.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AppDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Program.cs",
+              "RelativeToolTip": "AppDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T17:51:57.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowAllContacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Views\\Contact\\ShowAllContacts.cshtml",
+              "RelativeDocumentMoniker": "AppDemo\\Views\\Contact\\ShowAllContacts.cshtml",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Views\\Contact\\ShowAllContacts.cshtml",
+              "RelativeToolTip": "AppDemo\\Views\\Contact\\ShowAllContacts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T04:00:04.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Views\\Contact\\AddContact.cshtml",
+              "RelativeDocumentMoniker": "AppDemo\\Views\\Contact\\AddContact.cshtml",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Views\\Contact\\AddContact.cshtml",
+              "RelativeToolTip": "AppDemo\\Views\\Contact\\AddContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T03:58:42.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IContactRepo.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\DataAccess\\IContactRepo.cs",
+              "RelativeDocumentMoniker": "AppDemo\\DataAccess\\IContactRepo.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\DataAccess\\IContactRepo.cs",
+              "RelativeToolTip": "AppDemo\\DataAccess\\IContactRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T03:57:34.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContractController.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Controllers\\ContractController.cs",
+              "RelativeDocumentMoniker": "AppDemo\\Controllers\\ContractController.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Controllers\\ContractController.cs",
+              "RelativeToolTip": "AppDemo\\Controllers\\ContractController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T03:55:06.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AppDemo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AppDemo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T17:52:07.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "AppDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\appsettings.json",
+              "RelativeToolTip": "AppDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T17:52:00.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AppDemo\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-7\\Day 1\\AppDemo\\AppDemo\\appsettings.Development.json",
+              "RelativeToolTip": "AppDemo\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T17:52:04.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
