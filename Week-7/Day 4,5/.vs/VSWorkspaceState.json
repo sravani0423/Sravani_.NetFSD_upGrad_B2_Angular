@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ContactManagementSystem",
+    "\\ContactManagementSystem\\AppUILayer",
+    "\\ContactManagementSystem\\AppUILayer\\Models",
+    "\\ContactManagementSystem\\DataAccessLayer"
+  ],
+  "PreviewInSolutionExplorer": false
+}
