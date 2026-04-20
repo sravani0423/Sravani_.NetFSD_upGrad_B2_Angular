@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ajay\\source\\repos\\Week8Day3\\ContactManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0D2511-D65B-4037-9835-FC1328332AE0}|ContactManagement.API\\ContactManagement.API.csproj|c:\\users\\ajay\\source\\repos\\week8day3\\contactmanagement.api\\contactmanagement.api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0D2511-D65B-4037-9835-FC1328332AE0}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ajay\\source\\repos\\Week8Day3\\ContactManagement.API\\ContactManagement.API\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Ajay\\source\\repos\\Week8Day3\\ContactManagement.API\\ContactManagement.API\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactManagement.API\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:32:11.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04138D67-9A11-4039-9CF6-663E3BFEFE5F}|ContactManagement.DAL\\ContactManagement.DAL.csproj|c:\\users\\ajay\\source\\repos\\week8day4\\cms\\contactmanagement.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04138D67-9A11-4039-9CF6-663E3BFEFE5F}|ContactManagement.DAL\\ContactManagement.DAL.csproj|solutionrelative:contactmanagement.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04138D67-9A11-4039-9CF6-663E3BFEFE5F}|ContactManagement.DAL\\ContactManagement.DAL.csproj|c:\\users\\ajay\\source\\repos\\week8day4\\cms\\contactmanagement.dal\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04138D67-9A11-4039-9CF6-663E3BFEFE5F}|ContactManagement.DAL\\ContactManagement.DAL.csproj|solutionrelative:contactmanagement.dal\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26BB062-2DF6-4FCB-B504-B8B03ACC712F}|ContactManagement.API\\ContactManagement.API.csproj|c:\\users\\ajay\\source\\repos\\week8day4\\cms\\contactmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F26BB062-2DF6-4FCB-B504-B8B03ACC712F}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.DAL\\Migrations\\20260409161801_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContactManagement.DAL\\Migrations\\20260409161801_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04138D67-9A11-4039-9CF6-663E3BFEFE5F}|ContactManagement.DAL\\ContactManagement.DAL.csproj|c:\\users\\ajay\\source\\repos\\week8day4\\cms\\contactmanagement.dal\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04138D67-9A11-4039-9CF6-663E3BFEFE5F}|ContactManagement.DAL\\ContactManagement.DAL.csproj|solutionrelative:contactmanagement.dal\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26BB062-2DF6-4FCB-B504-B8B03ACC712F}|ContactManagement.API\\ContactManagement.API.csproj|c:\\users\\ajay\\source\\repos\\week8day4\\cms\\contactmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26BB062-2DF6-4FCB-B504-B8B03ACC712F}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26BB062-2DF6-4FCB-B504-B8B03ACC712F}|ContactManagement.API\\ContactManagement.API.csproj|c:\\users\\ajay\\source\\repos\\week8day4\\cms\\contactmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26BB062-2DF6-4FCB-B504-B8B03ACC712F}|ContactManagement.API\\ContactManagement.API.csproj|solutionrelative:contactmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T16:19:55.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.DAL\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.DAL\\AppDbContextFactory.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T16:19:47.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.API\\appsettings.json",
+              "RelativeToolTip": "ContactManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-09T16:19:36.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260409161801_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.DAL\\Migrations\\20260409161801_Init.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\Migrations\\20260409161801_Init.cs",
+              "ToolTip": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.DAL\\Migrations\\20260409161801_Init.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\Migrations\\20260409161801_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T16:18:02.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.DAL\\Models\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "ContactManagement.DAL\\Models\\ContactInfo.cs",
+              "ToolTip": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.DAL\\Models\\ContactInfo.cs",
+              "RelativeToolTip": "ContactManagement.DAL\\Models\\ContactInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T16:16:11.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.API\\Program.cs",
+              "RelativeToolTip": "ContactManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T15:20:30.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ContactManagement.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ajay\\source\\repos\\Week8Day4\\CMS\\ContactManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ContactManagement.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowCwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T15:16:46.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
