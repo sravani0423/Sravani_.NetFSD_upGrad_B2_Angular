@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aishw\\source\\repos\\week9_day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFC9E00-4CB3-449C-8C29-85F3898608F2}|ApiGateway\\ApiGateway.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFC9E00-4CB3-449C-8C29-85F3898608F2}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|solutionrelative:authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Migrations\\20260417105358_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthService\\Migrations\\20260417105358_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAAC94-20A7-4C02-B4B7-1E5580241C03}|ContactService\\ContactService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\contactservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAAC94-20A7-4C02-B4B7-1E5580241C03}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE0D028-BC94-47EE-B9E0-2C9FFEB57CD8}|CategoryService\\CategoryService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\categoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE0D028-BC94-47EE-B9E0-2C9FFEB57CD8}|CategoryService\\CategoryService.csproj|solutionrelative:categoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE0D028-BC94-47EE-B9E0-2C9FFEB57CD8}|CategoryService\\CategoryService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\categoryservice\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE0D028-BC94-47EE-B9E0-2C9FFEB57CD8}|CategoryService\\CategoryService.csproj|solutionrelative:categoryservice\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE0D028-BC94-47EE-B9E0-2C9FFEB57CD8}|CategoryService\\CategoryService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\categoryservice\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE0D028-BC94-47EE-B9E0-2C9FFEB57CD8}|CategoryService\\CategoryService.csproj|solutionrelative:categoryservice\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAAC94-20A7-4C02-B4B7-1E5580241C03}|ContactService\\ContactService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\contactservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11BAAC94-20A7-4C02-B4B7-1E5580241C03}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE0D028-BC94-47EE-B9E0-2C9FFEB57CD8}|CategoryService\\CategoryService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\categoryservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE0D028-BC94-47EE-B9E0-2C9FFEB57CD8}|CategoryService\\CategoryService.csproj|solutionrelative:categoryservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\authservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\authservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\authservice\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|solutionrelative:authservice\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\authservice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|solutionrelative:authservice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\authservice\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|solutionrelative:authservice\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|solutionrelative:authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFC9E00-4CB3-449C-8C29-85F3898608F2}|ApiGateway\\ApiGateway.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FFC9E00-4CB3-449C-8C29-85F3898608F2}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAAC94-20A7-4C02-B4B7-1E5580241C03}|ContactService\\ContactService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\contactservice\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAAC94-20A7-4C02-B4B7-1E5580241C03}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BAAC94-20A7-4C02-B4B7-1E5580241C03}|ContactService\\ContactService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\contactservice\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BAAC94-20A7-4C02-B4B7-1E5580241C03}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|c:\\users\\aishw\\source\\repos\\week9_day4\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C64A92-7806-4E58-A4DC-C84262E917B5}|AuthService\\AuthService.csproj|solutionrelative:authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthService\\appsettings.json",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\appsettings.json",
+              "RelativeToolTip": "AuthService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T10:32:38.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:40:21.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260417105358_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Migrations\\20260417105358_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AuthService\\Migrations\\20260417105358_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Migrations\\20260417105358_InitialCreate.cs",
+              "RelativeToolTip": "AuthService\\Migrations\\20260417105358_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:53:59.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\ContactService\\Program.cs",
+              "RelativeDocumentMoniker": "ContactService\\Program.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\ContactService\\Program.cs",
+              "RelativeToolTip": "ContactService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:35:56.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\CategoryService\\Program.cs",
+              "RelativeDocumentMoniker": "CategoryService\\Program.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\CategoryService\\Program.cs",
+              "RelativeToolTip": "CategoryService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:38:40.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\CategoryService\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CategoryService\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\CategoryService\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CategoryService\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:37:56.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\CategoryService\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CategoryService\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\CategoryService\\Models\\Category.cs",
+              "RelativeToolTip": "CategoryService\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:37:03.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\ContactService\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactService\\appsettings.json",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\ContactService\\appsettings.json",
+              "RelativeToolTip": "ContactService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T10:45:30.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\CategoryService\\appsettings.json",
+              "RelativeDocumentMoniker": "CategoryService\\appsettings.json",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\CategoryService\\appsettings.json",
+              "RelativeToolTip": "CategoryService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T10:45:22.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Models\\User.cs",
+              "RelativeToolTip": "AuthService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:30:07.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthService\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Services\\AuthService.cs",
+              "RelativeToolTip": "AuthService\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:24:10.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "AuthService\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "AuthService\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:22:17.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "AuthService\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "AuthService\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:22:57.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "AuthService\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "AuthService\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:18:32.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:26:19.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T10:39:38.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\ContactService\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactService\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\ContactService\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactService\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:35:30.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\ContactService\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactService\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\ContactService\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactService\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:34:41.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "AuthService\\Program.cs",
+              "ToolTip": "C:\\Users\\aishw\\source\\repos\\week9_day4\\AuthService\\Program.cs",
+              "RelativeToolTip": "AuthService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T10:33:12.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

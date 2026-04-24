@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5ADBC9-41F7-AE4C-1446-E30EF6135A09}|ContactService\\ContactService.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-9\\day 4\\week9_day4\\contactservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5ADBC9-41F7-AE4C-1446-E30EF6135A09}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5ADBC9-41F7-AE4C-1446-E30EF6135A09}|ContactService\\ContactService.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-9\\day 4\\week9_day4\\contactservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5ADBC9-41F7-AE4C-1446-E30EF6135A09}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5ADBC9-41F7-AE4C-1446-E30EF6135A09}|ContactService\\ContactService.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-9\\day 4\\week9_day4\\contactservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5ADBC9-41F7-AE4C-1446-E30EF6135A09}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5ADBC9-41F7-AE4C-1446-E30EF6135A09}|ContactService\\ContactService.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-9\\day 4\\week9_day4\\contactservice\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5ADBC9-41F7-AE4C-1446-E30EF6135A09}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5ADBC9-41F7-AE4C-1446-E30EF6135A09}|ContactService\\ContactService.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-9\\day 4\\week9_day4\\contactservice\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5ADBC9-41F7-AE4C-1446-E30EF6135A09}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5ADBC9-41F7-AE4C-1446-E30EF6135A09}|ContactService\\ContactService.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-9\\day 4\\week9_day4\\contactservice\\contactservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF5ADBC9-41F7-AE4C-1446-E30EF6135A09}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\contactservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A075A6-AB8B-5CCC-10A3-9B458C4FF26C}|CategoryService\\CategoryService.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-9\\day 4\\week9_day4\\categoryservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A075A6-AB8B-5CCC-10A3-9B458C4FF26C}|CategoryService\\CategoryService.csproj|solutionrelative:categoryservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A075A6-AB8B-5CCC-10A3-9B458C4FF26C}|CategoryService\\CategoryService.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-9\\day 4\\week9_day4\\categoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A075A6-AB8B-5CCC-10A3-9B458C4FF26C}|CategoryService\\CategoryService.csproj|solutionrelative:categoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDAB7B3-DE4F-6FF5-06F0-D824F083F1AF}|AuthService\\AuthService.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-9\\day 4\\week9_day4\\authservice\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDAB7B3-DE4F-6FF5-06F0-D824F083F1AF}|AuthService\\AuthService.csproj|solutionrelative:authservice\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDAB7B3-DE4F-6FF5-06F0-D824F083F1AF}|AuthService\\AuthService.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-9\\day 4\\week9_day4\\authservice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDAB7B3-DE4F-6FF5-06F0-D824F083F1AF}|AuthService\\AuthService.csproj|solutionrelative:authservice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|c:\\users\\hi\\onedrive\\documents\\hands-on\\week-9\\day 4\\week9_day4\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ContactService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ContactService\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ContactService\\WeatherForecast.cs",
+              "RelativeToolTip": "ContactService\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:13:10.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ContactService\\Program.cs",
+              "RelativeDocumentMoniker": "ContactService\\Program.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ContactService\\Program.cs",
+              "RelativeToolTip": "ContactService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:13:04.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ContactService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ContactService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ContactService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ContactService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABAAAAAAa2ZmZmb2vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:12:50.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ContactService\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactService\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ContactService\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactService\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:12:48.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ContactService\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactService\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ContactService\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactService\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAC4AAACAzMzMzMwwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:12:32.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactService",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ContactService\\ContactService.csproj",
+              "RelativeDocumentMoniker": "ContactService\\ContactService.csproj",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ContactService\\ContactService.csproj",
+              "RelativeToolTip": "ContactService\\ContactService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-22T10:12:24.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\CategoryService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CategoryService\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\CategoryService\\WeatherForecast.cs",
+              "RelativeToolTip": "CategoryService\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:12:19.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\CategoryService\\Program.cs",
+              "RelativeDocumentMoniker": "CategoryService\\Program.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\CategoryService\\Program.cs",
+              "RelativeToolTip": "CategoryService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:12:16.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\AuthService\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "AuthService\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\AuthService\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "AuthService\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:12:10.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\AuthService\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "AuthService\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\AuthService\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "AuthService\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:12:09.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\hi\\OneDrive\\Documents\\Hands-On\\Week-9\\Day 4\\week9_day4\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:11:45.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
